@@ -15,7 +15,7 @@ mời giảng trong một khóa học có thể dạy nhiều lớp với nhữn
 viên có các thông tin Mã giáo viên, Họ tên, địa chỉ, nơi công tác, điện thoại.
 
 <img width="1043" height="1215" alt="Untitled1" src="https://github.com/user-attachments/assets/c546e5b5-751f-42a3-aa7c-27ec293e1739" />
-
+-
 2. Công ty du lịch TTT chuyên tổ chức các chuyến du lịch trong nước cần thiết kế một hệ thống
 thông tin quản lý việc vận chuyển, đội ngũ tài xế, lượng khách vận chuyển, cũng như lập kế 
 hoạch điều động xe . Công ty có một đội xe riêng, với nhiều loại xe khác nhau và đội ngũ tài xế
