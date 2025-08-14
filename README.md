@@ -15,3 +15,15 @@ mời giảng trong một khóa học có thể dạy nhiều lớp với nhữn
 viên có các thông tin Mã giáo viên, Họ tên, địa chỉ, nơi công tác, điện thoại.
 
 <img width="1043" height="1215" alt="Untitled1" src="https://github.com/user-attachments/assets/c546e5b5-751f-42a3-aa7c-27ec293e1739" />
+
+2. Công ty du lịch TTT chuyên tổ chức các chuyến du lịch trong nước cần thiết kế một hệ thống
+thông tin quản lý việc vận chuyển, đội ngũ tài xế, lượng khách vận chuyển, cũng như lập kế 
+hoạch điều động xe . Công ty có một đội xe riêng, với nhiều loại xe khác nhau và đội ngũ tài xế
+riêng. Mỗi xe có mã phân biệt, hiệu xe, số cây số đã đi được, số chỗ ngồi, tình trạng hoạt động 
+hiện tại. Các tài xế có mã phân biệt , họ tên, phái, số điện thoại di động. Các tài xế sẽ nhận xe 
+theo sắp xếp của bộ phận điều xe, và ghi nhận số cây số đi được của xe cho tài xế trong mỗi lần
+đi. Các tour du lịch có mã phân biệt và các thông tin khác như thành phố đến, ngày đi, ngày về, 
+chiều dài quảng đường (km). Một chuyến đi cụ thể theo tour còn phải xác nhận thêm thông tin 
+về tài xế và xe chỉ định trong chuyến đi, và cho biết số khách thực tế.
+
+<img width="1148" height="1027" alt="Lab2_Question" src="https://github.com/user-attachments/assets/6ef00857-592b-4769-9227-a4ee8e56d40e" />
